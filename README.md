@@ -16,10 +16,10 @@ It displays:
 	•	Ubuntu (Linux)
   Project structure
   project1-flask-app/
-├── app.py
-├── requirements.txt
-├── Dockerfile
-└── .gitignore
+ app.py
+requirements.txt
+ Dockerfile
+.gitignore
 Run the application with Docker hub
 docker pull euniceo/project1-flask-app
 Run the container
